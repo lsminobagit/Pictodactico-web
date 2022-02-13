@@ -34,4 +34,4 @@ Pictodactico.com es una web estática que sirve para presentar el organizador vi
 ## Autor
 
 - Github - [lsminobagit](https://github.com/lsminobagit)
-- Linkedin- [](https://www.linkedin.com/in/luciano-miño91)
+- Linkedin- [Luciano Miño](https://www.linkedin.com/in/luciano-miño91)
