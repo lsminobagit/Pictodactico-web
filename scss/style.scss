@@ -1,0 +1,24 @@
+//FONTS
+@import "./fonts/fonts";
+
+//BASE
+@import "./base/base";
+@import "./base/resets";
+
+//NAVBAR STYLES
+@import "./layouts/navbar";
+
+//EFECTO SLIDER Y ESTILOS
+@import "./layouts/slider";
+
+//INFORMACION STYLES
+@import "./layouts/info";
+
+//BOTON SCROLL-TOP STYLES
+@import "./layouts/btnscroll";
+
+/*:::::Pie de Pagina*/
+@import "./layouts/footer";
+
+//Media Mobile
+@import "./mobile/mobile";

@@ -1,0 +1,28 @@
+
+html{
+    scroll-behavior: smooth;
+}
+body{
+    color: #004aad;
+    background: linear-gradient(#004aad, #ffff);
+    font-family: 'Barrio', cursive;
+    
+}
+
+h4{
+    display:grid;
+    justify-content:center;
+    font-size: 36px;
+    align-items: center;
+}
+
+a{
+    color:#004aad;
+    text-decoration: none;
+    opacity: 0.8;
+    transition: 0.3s;
+}
+a:hover{
+    color:#e66465;
+    opacity: 1;
+}

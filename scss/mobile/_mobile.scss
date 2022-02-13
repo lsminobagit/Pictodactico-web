@@ -1,0 +1,96 @@
+//Media Mobile
+@media screen and (max-width: 800px){
+
+    h4{
+        font-size:26px;
+    }
+    
+    .quienes-somos{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 20px;
+        
+    }
+    .item{
+        display:none;
+    }
+    .social{
+        height:40px;
+    }
+    .ml{
+        height:26px;
+    }
+    .txt-ml{
+        font-size: 14px;
+    } 
+    .lista-nav{
+        display:flex;
+        flex-direction:row;
+        justify-content:space-between;
+    }
+.slider{
+    display:none;
+}
+.titles{
+    margin:20px;
+    height: 100%;
+}
+.info-box{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content:center;
+}
+.info-img{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content:center;
+}
+.picto-img2{
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+    
+}
+.picto-img3{
+    width: 90%;
+}
+
+.pie-pagina .grupo-1{
+        width: 90%;
+        grid-template-columns: repeat(1, 1fr);
+        grid-gap:30px;
+        padding: 35px 0px;
+    }
+.logo-footer{
+    display:none;
+}
+}
+
+@media screen and (max-width: 1400px){
+    
+    p{
+        font-size: 26px;
+    }
+    
+    .info-img {
+        display:flex;
+        flex-direction:row;
+        align-items: center;
+        width: 300px;
+        }
+        
+        .picto-img3 {
+            display:flex;
+            align-items: center;
+            height:80%;
+        }
+
+        .pie-pagina .grupo-1{
+            width: 90%;
+            grid-gap:30px;
+            padding: 35px 0px;
+        }
+}

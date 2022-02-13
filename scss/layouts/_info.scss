@@ -1,0 +1,50 @@
+//INFORMACION STYLES
+.quienes-somos{
+    font-family: 'Baloo Bhaijaan 2', sans-serif;
+    font-weight: 600;
+    color: #ffff;
+    display:flex;
+    align-items: center;
+
+}
+.info-quienes{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    color:#9FBEDF;
+}
+.titles{
+    display:grid;
+    justify-content:center;
+    font-size: 40px;
+    margin: 200px;
+    height:800px;
+}
+.info{
+    color:#9FBEDF;
+}
+.info-box{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+.info-img{
+    display:flex;
+    justify-content:center;
+    width:500px;
+    box-shadow: 2px 15px 12px 0 #004aad;  
+}
+
+.picto-img2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.picto-img3{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width:620px;
+    border-radius: 1%;
+    box-shadow: 2px 15px 12px 0 #004aad;
+}

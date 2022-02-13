@@ -1,0 +1,25 @@
+//BOTON SCROLL-TOP STYLES
+.scroll-to-top {
+    position: fixed;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    bottom: 20px;
+    right: 20px;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    background: #BB3E4F;
+    cursor: pointer;
+    box-shadow: 0 2px 10px 1px #BB3E4F;
+    opacity: 0.8;
+    list-style: none;
+    transition-duration: 0.3s;
+} 
+
+
+button:hover{
+    color:#004aad;
+    opacity: 1;
+}
