@@ -12,8 +12,8 @@ Pictodactico.com es una web estática que sirve para presentar el organizador vi
 
 ### Screenshot
 
-![](./src/desktop.jpg)
-![](./src/mobile.jpg)
+![](./src/desktop.png)
+![](./src/mobile.png)
 
 
 ### Links
